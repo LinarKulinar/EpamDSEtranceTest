@@ -1,5 +1,6 @@
 # EpamDSEtranceTest
-Задача: для датасета: https://www.kaggle.com/nareshbhat/health-care-data-set-on-heart-attack-possibility
+## Задача: 
+для датасета: https://www.kaggle.com/nareshbhat/health-care-data-set-on-heart-attack-possibility
 необходимо описать:                  
 - Какая бизнес-задача решается и к какой задаче ML она сведена.                  
 - Результаты разведывательного анализа данных (EDA): обнаруженные особенности и какие-то замечания по данным.                  
